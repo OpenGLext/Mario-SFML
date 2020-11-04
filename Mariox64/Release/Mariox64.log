@@ -1,0 +1,3 @@
+﻿  pch.cpp
+  Mariox64.cpp
+Release\Mariox64.obj : fatal error LNK1112: тип компьютера модуля "x86" противоречит типу целевого компьютера "x64"
